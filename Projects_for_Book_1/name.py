@@ -1,3 +1,5 @@
+### Changing case for stings with methods 
+
 name = "stray kids"
 print(name.title())
 # 'title()' method makes Python use title case for each word (The first letter of each word is capitalized) in the 'name' variable
